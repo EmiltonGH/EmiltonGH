@@ -1,6 +1,17 @@
-I am a dynamic Data Scientist with a comprehensive background in mathematics, statistics, and business operations. 
-Leveraging my strong analytical skills, I excel in extracting actionable insights from complex datasets to drive informed business decisions. 
-With hands-on experience in ETL, data cleaning, exploratory data analysis, and statistical modeling, I possess a deep understanding of both the technical and business aspects of data science.
-My proficiency in multiple programming languages and tools, including Python, SQL, AWS, Scikit-learn, Matplotlib, Pandas, Numpy, Pytorch and TensorFlow, allows me to effectively translate data into meaningful insights. 
-My extensive experience in providing IT support, directing business operations, and implementing cybersecurity measures further enhances my ability to deliver impactful solutions. 
-Committed to continuous learning, I thrive in collaborative environments and am eager to leverage my diverse skill set to tackle new challenges and drive organizational success.
+I’m a Data Scientist and Machine Learning Engineer with a strong background in mathematics, statistics, and software engineering. I specialize in building end-to-end data solutions—from cleaning and transforming raw data to deploying scalable machine learning models that drive real business impact.
+
+With hands-on experience in Python, SQL, C++, and frameworks like TensorFlow, I’ve worked across the full data pipeline: ETL, data wrangling, exploratory data analysis, predictive modeling, and production deployment. My foundation in software engineering enables me to create robust, maintainable systems that scale efficiently.
+
+I also bring practical experience in database design and management, ensuring high data integrity and performance in large-scale analytics environments. I thrive in collaborative, cross-functional teams and enjoy solving complex problems that require both technical expertise and strategic thinking.
+
+I’m committed to continuous learning and staying current with the latest developments in data science, machine learning, and AI to create value in dynamic, fast-paced environments.
+
+Top Skills:
+🔹 Python | SQL | C++
+🔹 Data Science & Machine Learning
+🔹 Statistical Modeling & Data Analysis
+🔹 ETL, Data Pipelines & Automation
+🔹 TensorFlow, Scikit-learn & ML Deployment
+🔹 Database Design | Data Warehousing
+🔹 Mathematics & Statistics
+🔹 Software Engineering & Scalable Systems
